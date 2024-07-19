@@ -29,7 +29,7 @@ I'm passionate about crafting efficient and elegant solutions using Lua and its 
 
 ### 📊 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=xootzie&show_icons=true&theme=tokyonight)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=xootzie&show_icons=true&theme=omni)
 
 ### 🌟 Featured Projects
 
