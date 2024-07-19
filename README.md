@@ -52,5 +52,3 @@ I'm passionate about programming using Lua/Luau. I love to program Roblox exploi
 
 ### 🌍 Websites
 - [All my exploits](https://funsuki.com)
-
-⭐️ From [Zade!](https://github.com/xootzie)
