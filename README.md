@@ -10,15 +10,6 @@ I'm passionate about crafting efficient and elegant solutions using Lua and its 
 - 🛠️ Exploit development using VSC & Roblo Studio
 - Ui Animation development
 
-### Skills
-### Skills
-| Language          | Experience Level  | Years Experience   |
-|-------------------|-------------------|--------------------|
-| 🌐 JavaScript     | Beginner          | 2                  |
-| 🛠️ Lua/u          | Advanced          | 4                  |
-| 🔷 Html/CSS       | Advanced          | 2                  |
-
-
 ### 💻 Technologies & Tools
 
 ![Lua](https://img.shields.io/badge/-Lua-2C2D72?style=flat-square&logo=lua&logoColor=white)
