@@ -8,7 +8,7 @@ I'm passionate about crafting efficient and elegant solutions using Lua and its 
 
 - 🎮 Game development with Roblox Studio
 - 🛠️ Exploit development using VSC & Roblo Studio
-- Ui Animation development
+- 📺 Ui Animation development
 
 ### 💻 Technologies & Tools
 
