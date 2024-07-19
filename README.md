@@ -2,8 +2,8 @@
 
 **`Exploit/Game Developer`**
 
-I'm passionate about programming using Lua/Luau. I love to program Roblox exploits & games within Roblox studio. This repo won't include much about what I do since I use other services by e-z.host but still cool to have! 
-Thanks for visiting! 💘 
+I'm passionate about programming using Lua/Luau. I love to program Roblox exploits & games within Roblox studio. This repo won't include much about what I do since I use other services by e-z.host but still cool to have! WIll be reaching out in my future life to pursue Cyber-Security and to be a content creator. Thanks for visiting! 💘
+
    <p align="left"> 
       <a href="https://github.com/xootzie?tab=followers">
          <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/xootzie?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
