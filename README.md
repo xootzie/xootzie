@@ -1,6 +1,6 @@
 # 🌙 Lua/Luau Developer
 
-## 👋 Welcome to my Lua/Luau playground!
+## 👋 Welcome to my GitHub profile!!
 
 I'm passionate about programming using Lua/Luau. I love to program Roblox exploits & games within Roblox studio. This repo won't include much about what I do since I use other services by e-z.host but still cool to have! 
 Thanks for visiting! 💘 
