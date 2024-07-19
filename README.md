@@ -1,7 +1,5 @@
 # 🌙 Lua/Luau Developer
 
-![Lua Logo](https://www.lua.org/images/lua-logo.gif)
-
 ## 👋 Welcome to my Lua/Luau playground!
 
 I'm passionate about crafting efficient and elegant solutions using Lua and its Roblox-specific dialect, Luau. This repository showcases my projects, experiments, and contributions to the Lua ecosystem.
