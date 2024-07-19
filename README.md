@@ -2,7 +2,8 @@
 
 ## 👋 Welcome to my Lua/Luau playground!
 
-I'm passionate about crafting efficient and elegant solutions using Lua and its Roblox-specific dialect, Luau. This repository showcases my projects, experiments, and contributions to the Lua ecosystem.
+I'm passionate about programming using Lua/Luau. I love to program Roblox exploits & games within Roblox studio. This repo won't include much about what I do since I use other services by e-z.host but still cool to have! 
+Thanks for visiting! 💘 
 
 ### 🚀 What I Do
 
