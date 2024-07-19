@@ -46,9 +46,9 @@ I'm passionate about programming using Lua/Luau. I love to program Roblox exploi
 
 - [Discord](https://discord.com/users/691995909634129941)
 - [Discord Server](https://discord.gg/zPG7RRE4ff)
+- More Soon
 
 #
-- More Soon
 
 ### 🌍 Websites
 - [All my exploits](https://funsuki.com)
